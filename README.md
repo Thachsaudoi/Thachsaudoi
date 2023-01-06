@@ -1,4 +1,6 @@
-### Hi there 👋
+### ![alt text]([http://url/to/img.png](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pexels.com%2Fsearch%2Fmountains%2F&psig=AOvVaw2N4mCpbaLVn7ZUGntSynwI&ust=1673071614546000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCLiPpsyjsvwCFQAAAAAdAAAAABAU))
+
+
 
 <!--
 **Thachsaudoi/Thachsaudoi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,4 +16,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![alt text]([http://url/to/img.png](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pexels.com%2Fsearch%2Fmountains%2F&psig=AOvVaw2N4mCpbaLVn7ZUGntSynwI&ust=1673071614546000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCLiPpsyjsvwCFQAAAAAdAAAAABAU))
+
